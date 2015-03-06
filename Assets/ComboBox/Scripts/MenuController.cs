@@ -11,6 +11,7 @@ using System;
 // Questo consente di avere un namespace principale per le proprie classi, e un secondario per le "cose" relate alla Unity GUI.
 namespace Kender.uGUI
 {
+	// My Stupid Class
 	public class MenuController : MonoBehaviour
 	{
 		// Specifica nell'inspector quale ComboBox deve essere popolato dalla lista di risoluzioni video a disposizione
